@@ -2,7 +2,7 @@
 
 <img align="right" width="35%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer coding GIF" />
 
-🚀 **Full Stack Software Engineer** with **2 years** of experience crafting scalable web and mobile applications.  
+🚀 **Full Stack Software Engineer** with more than **2 years** of experience crafting scalable web and mobile applications.  
 💡 Passionate about solving real-world problems, shipping features, and building systems that make an impact.
 
 ---
